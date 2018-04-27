@@ -1,3 +1,3 @@
 # hello-world
-GitHub training
+GitHub - opentutorials.org
 I want to study GitHub and everything!
